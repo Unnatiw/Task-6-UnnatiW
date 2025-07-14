@@ -20,6 +20,6 @@ Minimum 8 characters in length
 Uppercase Letters
 Lowercase Letters, Numbers, Symbols
 If we don't use the following a weak password is formed and hacker gets the chance to use the Brute force attack and break the password
-Brute force attack: Brute force attack is like trial and error method where hacker guess the password by trying possible combination until it works.
-Dictionary attack is a type of brute force attack where hacker uses list of common password or words from dictionary to guess the password.
+-Brute force attack: Brute force attack is like trial and error method where hacker guess the password by trying possible combination until it works.
+-Dictionary attack is a type of brute force attack where hacker uses list of common password or words from dictionary to guess the password.
 ---
